@@ -19,9 +19,10 @@ Apply `position: absolute` to grant the element full freedom of movement.
 
 Feel free to enhance your implementation with optional features:
 
-Ensure the element stays within the visible screen area.
-Implement collision detection or introduce obstacles for added complexity.
-Styling:
+- Ensure the element stays within the visible screen area.
+- Implement collision detection or introduce obstacles for added complexity.
+
+### Styling:
 
 While the primary focus is on functionality, you have the liberty to style the element according to your preferences. A simple black square suffices, but feel free to inject your creativity into the design.
 
