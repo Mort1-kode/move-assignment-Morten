@@ -4,18 +4,18 @@ _Greetings JavaScript enthusiasts,_
 
 In this assignment, let's dive into the practical side of JavaScript by crafting a movable HTML element. Your task is to enable the element to smoothly navigate the browser canvas. The specifications are straightforward:
 
-###Functionality:
+### Functionality:
 
 Arrow Key Navigation: Implement the ability to move the element in four directions – up, down, left, and right – using the arrow keys.
 
 Click-to-Position: Allow the user to relocate the element instantly by clicking anywhere on the page.
 
-###Implementation Tips:
+### Implementation Tips:
 
 Utilize `addEventListener()` to capture arrow key and click events.
 Apply `position: absolute` to grant the element full freedom of movement.
 
-###Optional Challenges:
+### Optional Challenges:
 
 Feel free to enhance your implementation with optional features:
 
@@ -25,7 +25,7 @@ Styling:
 
 While the primary focus is on functionality, you have the liberty to style the element according to your preferences. A simple black square suffices, but feel free to inject your creativity into the design.
 
-###Task Overview:
+### Task Overview:
 
 Set up event listeners for arrow keys and mouse clicks.
 Implement logic to update the element's position based on the events.
