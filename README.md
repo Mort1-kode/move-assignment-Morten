@@ -31,6 +31,8 @@ While the primary focus is on functionality, you have the liberty to style the e
 Set up event listeners for arrow keys and mouse clicks.
 Implement logic to update the element's position based on the events.
 Optionally add extra features or constraints to elevate the challenge.
-Remember, this exercise aims to reinforce your understanding of event handling and manipulation of HTML elements using JavaScript. Keep your code organized, and have a smooth coding journey! If you find yourself in need of a loop, use the opportunity to practice the high level array methods we looked at during the lecture.
+Remember, this exercise aims to reinforce your understanding of event handling and manipulation of HTML elements using JavaScript. Keep your code organized, and have a smooth coding journey! If you find yourself in need of a loop, use the opportunity to practice the high level array methods we looked at during the last lecture.
+
+**Remember to enable GitHub Pages on your submission**
 
 Best of luck on your coding adventure!
